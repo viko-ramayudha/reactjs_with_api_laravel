@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #dadada;
+}
+
+a {
+  color: #fff;
+}
+
+.app-header {
+  width: 100%;
+  height: auto;
+}
+
+.app-content {
+  padding: 50px;
+  background-color: #dadada;
+}
